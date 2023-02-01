@@ -1,2 +1,2 @@
-# LinguageC
+# Linguagem C
 Códigos de exercícios de sala de aula para treinar e deixar armazenado.
