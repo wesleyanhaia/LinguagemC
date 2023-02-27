@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <conio.h>
 
-/*/2) Faça um algoritmo que receba o salário-base de um funcionário e mostre o
-salário a receber, sabendo-se que esse funcionário tem gratificação de 5%
-sobre o salário-base e paga imposto de 7% sobre o salário-base./*/
+/*/2) FaÃ§a um algoritmo que receba o salÃ¡rio-base de um funcionÃ¡rio e mostre o
+salÃ¡rio a receber, sabendo-se que esse funcionÃ¡rio tem gratificaÃ§Ã£o de 5%
+sobre o salÃ¡rio-base e paga imposto de 7% sobre o salÃ¡rio-base./*/
 
 main(){
 	
