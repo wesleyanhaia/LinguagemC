@@ -1,7 +1,7 @@
-/*Escreva um programa que lê o tamanho e na sequência 2 vetores. Após a
+/*Escreva um programa que lÃª o tamanho e na sequÃªncia 2 vetores. ApÃ³s a
 leitura o programa deve intercalar os valores dos dois vetores inteiros de
-mesmo tamanho em um terceiro vetor. Assuma que, a dimensão do terceiro
-vetor é pelo menos duas vezes a dimensão de cada um dos outros vetores. No
+mesmo tamanho em um terceiro vetor. Assuma que, a dimensÃ£o do terceiro
+vetor Ã© pelo menos duas vezes a dimensÃ£o de cada um dos outros vetores. No
 final imprima o novo vetor com os elementos intercalados*/
 
 #include <stdio.h>
