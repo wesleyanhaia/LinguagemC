@@ -1,3 +1,6 @@
+//Faça uma função que receba dois números positivos por parâmetro e retorne a soma
+//dos n números inteiros existentes entre eles
+
 #include <stdio.h>
 	int i=0, soma;
 int retornador(int a, int b);
