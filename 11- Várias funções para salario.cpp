@@ -1,3 +1,14 @@
+/*/8) Faça um programa com funções que mostre o salário líquido de um funcionário com
+base nos cálculos “a”, “b”, “c” e “d”, a seguir. Crie, no mínimo, uma função
+independente para cada cálculo. Inicialmente o programa recebe o número de horas
+trabalhadas e o valor do salário base da empresa.
+	
+	a) A hora trabalhada vale 13% do salário base da empresa;
+b) O salário bruto equivale ao número de horas trabalhadas multiplicado pelo
+valor da hora trabalhada;
+c) O imposto equivale a 7,55% do salário bruto;
+d) O salário líquido equivale ao salário bruto menos o imposto./*/
+
 #include <stdio.h>
 float funcaoA(float salario);
 float funcaoA(float salario){
